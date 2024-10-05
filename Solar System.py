@@ -49,6 +49,6 @@ def update():
         )
 
 window.fullscreen = True
-Sky(texture='space.jpg')
+Sky(color = color.cyan)
 
 app.run()
